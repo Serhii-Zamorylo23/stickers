@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stickers/static/css/main.d21c655b.css",
+    "main.js": "/stickers/static/js/main.4ca839d1.js",
+    "index.html": "/stickers/index.html",
+    "main.d21c655b.css.map": "/stickers/static/css/main.d21c655b.css.map",
+    "main.4ca839d1.js.map": "/stickers/static/js/main.4ca839d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21c655b.css",
+    "static/js/main.4ca839d1.js"
+  ]
+}
